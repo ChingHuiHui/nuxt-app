@@ -11,5 +11,8 @@
 </template>
 
 <script setup>
-const links = [{ to: '/vuelidate', label: 'vuelidate' }]
+const links = [
+  // { to: '/vuelidate', label: 'vuelidate' },
+  { to: '/vee-validate', label: 'vee-validate' },
+]
 </script>
